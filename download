@@ -1,0 +1,24 @@
+# Environment variables — NEVER commit this, contains your bot token
+.env
+.env.local
+.env.*
+
+# Bot persistent data — contains user data, ratings, listings
+marketplace_data.json
+
+# Node modules — reinstall with npm install
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.user
