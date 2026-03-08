@@ -3,9 +3,10 @@
 # 🛒 GVUM Bot
 ### Grab VR Unofficial Marketplace — Discord Bot
 
-[![Discord](https://img.shields.io/badge/Discord-Grab%20VR%20Marketplace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/INVITE_LINK_HERE)
+[![Discord](https://img.shields.io/badge/Discord-Grab%20VR%20Marketplace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NEWPxW6urB)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
+[![Built with Claude](https://img.shields.io/badge/Built%20with-Claude%20by%20Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![Status](https://img.shields.io/badge/Status-Live-2dc653?style=for-the-badge)]()
 
 A fully custom Discord marketplace bot built from scratch for the **Grab VR** community. Handles the full creator economy — listings, hiring, reputation, payments, disputes, and more.
@@ -18,7 +19,7 @@ A fully custom Discord marketplace bot built from scratch for the **Grab VR** co
 
 ## 📋 Overview
 
-The **Grab VR Unofficial Marketplace** is an independent community server for Grab VR builders, coders, designers, and SFX artists. The GVUM Bot powers the entire marketplace — replacing manual processes with a structured, automated system that tracks jobs, builds creator reputations, and protects both clients and creators.
+The **Grab VR Unofficial Marketplace** is an independent community server for Grab VR creators looking to earn off their hard-work. The GVUM Bot is the main power source for the marketplace - it makes a clear way for members to properly communicate their needs without hard manual work. It has an automated system that tracks jobs, reputation and a full on heirachy system with badges and perks (such as reduced cooldown in `/bump` cmds)
 
 ---
 
@@ -33,14 +34,14 @@ The **Grab VR Unofficial Marketplace** is an independent community server for Gr
 - **`/bump`** — Re-post your most recent listing to the top of the channel (cooldown varies by role tier)
 
 ### 🧵 Hire & Apply Thread System
-- Clicking **💼 Hire Creator** or **📩 Apply** opens a **Discord modal** collecting project details, portfolio links, budget, and availability *before* the thread is created
+- Clicking **💼 Hire Creator** or **📩 Apply** opens a **Discord modal** collecting project details, portfolio links, budget, and availability.
 - A **private thread** is automatically created with both parties and the filled intake form posted as the first message
 - Built-in **✅ Job Done** (requires both parties to confirm) and **⚠️ Raise Dispute** buttons
 - Escrow reminders, auto-close warnings, and listing expiry notifications via automated interval checks
 
 ### ⭐ Reputation & Job Tracking
 - Full star rating system (1–5 stars + optional comment) sent via DM after job completion
-- Persistent job history tracking — completed jobs and disputes logged per user
+- Job history tracking, completed jobs and disputes logged per user
 - `/reputation` and `/jobhistory` commands for public profile lookups
 - Milestone DMs on 1st, 5th, 10th, and 25th completed job
 - Rating milestone DMs on 1st, 5th, and 10th perfect 5-star review
@@ -123,16 +124,17 @@ All data survives bot restarts via JSON file storage:
 
 ## 👤 About the Developer
 
-Built and maintained by **resterphobic_gd** — Verified Grab VR Creator with 40+ verified levels, VRML Orion Drift team owner, and former Head Administrator of the Penguin Paradise Pro League (500+ members).
+Built and maintained by **resterphobic_gd** - Verified Grab VR Creator with 40+ verified levels, VRML Orion Drift team owner, and former Head Administrator of the Penguin Paradise Pro League (500+ members).
 
-> *"I built this because the Grab VR community needed a proper, trusted marketplace — and I wanted to build something that actually worked."*
+> *"I built this bot (with the help of my beautiful and amazing [Claude, by Anthropic](https://anthropic.com)) because the Grab VR community needed an actually trustworthy marketplace for creators all around, looking for a way to get their creations out there"*
 
 ---
 
 ## 🔗 Links
 
-- **Discord Server:** [Join the Grab VR Marketplace](https://discord.gg/INVITE_LINK_HERE)
+- **Discord Server:** [Join the Grab VR Marketplace](https://discord.gg/NEWPxW6urB)
 - **Grab VR:** [grabvr.quest](https://grabvr.quest)
+- **Built with:** [Claude by Anthropic](https://anthropic.com)
 
 ---
 
