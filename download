@@ -1,9 +1,9 @@
-# Environment variables — NEVER commit this, contains your bot token
+# Environment variables
 .env
 .env.local
 .env.*
 
-# Bot persistent data — contains user data, ratings, listings
+# Bot persistent data
 marketplace_data.json
 
 # Node modules — reinstall with npm install
