@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🛒 GVUM Bot
-### Grab VR Unofficial Marketplace — Discord Bot
+# 🛒 GVCH Bot
+### Grab VR Creation Hub — Discord Bot
 
 [![Discord](https://img.shields.io/badge/Discord-Grab%20VR%20Marketplace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NEWPxW6urB)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -19,7 +19,7 @@ A fully custom Discord marketplace bot built from scratch for the **Grab VR** co
 
 ## 📋 Overview
 
-The **Grab VR Unofficial Marketplace** is an independent community server for Grab VR creators looking to earn off their hard-work. The GVUM Bot is the main power source for the marketplace - it makes a clear way for members to properly communicate their needs without hard manual work. It has an automated system that tracks jobs, reputation and a full on heirachy system with badges and perks (such as reduced cooldown in `/bump` cmds)
+The **Grab VR Creation Hub** is an independent community server for Grab VR creators looking to earn off their hard-work. The GVCH Bot is the main power source for the marketplace - it makes a clear way for members to properly communicate their needs without hard manual work. It has an automated system that tracks jobs, reputation and a full on heirachy system with badges and perks (such as reduced cooldown in `/bump` cmds)
 
 ---
 
@@ -54,7 +54,7 @@ Every listing displays a **🏅 Badges** field showing the poster's earned roles
 | `<:staff:>` | Moderator | Assigned by owner |
 | `<:SI:>` | Scam Investigator | Assigned by owner |
 | `<:creator:>` | Verified Creator | Apply via `/requestverify` |
-| `<:youtube:>` | GVUM Ambassador | Promote server + apply via `/ambassador` |
+| `<:youtube:>` | GVCH Ambassador | Promote server + apply via `/ambassador` |
 | `<:serverbooster:>` | Server Booster | Boost the Discord server |
 | 🥉🥈🥇 | Client Rank | Auto-assigned at 1, 3, and 7 completed hires |
 
@@ -132,7 +132,7 @@ Built and maintained by **resterphobic_gd** - Verified Grab VR Creator with 40+ 
 
 ## 🔗 Links
 
-- **Discord Server:** [Join the Grab VR Marketplace](https://discord.gg/NEWPxW6urB)
+- **Discord Server:** [Join the Grab VR Creation Hub](https://discord.gg/NEWPxW6urB)
 - **Grab VR:** [grabvr.quest](https://grabvr.quest)
 - **Built with:** [Claude by Anthropic](https://anthropic.com)
 
