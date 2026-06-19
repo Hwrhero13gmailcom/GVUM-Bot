@@ -126,7 +126,7 @@ All data survives bot restarts via JSON file storage:
 
 Built and maintained by **resterphobic_gd** - Verified Grab VR Creator with 40+ verified levels, VRML Orion Drift team owner, and former Head Administrator of the Penguin Paradise Pro League (500+ members).
 
-> *"I built this bot (with the help of my beautiful and amazing [Claude, by Anthropic](https://anthropic.com)) because the Grab VR community needed an actually trustworthy marketplace for creators all around, looking for a way to get their creations out there"*
+> *"I built this bot (with the debugging from claude because discord is a dummy [Claude, by Anthropic](https://anthropic.com)) because the Grab VR community needed an actually trustworthy marketplace for creators all around, looking for a way to get their creations out there"*
 
 ---
 
