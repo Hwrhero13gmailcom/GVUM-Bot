@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Grab%20VR%20Marketplace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NEWPxW6urB)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
-[![Built with Claude](https://img.shields.io/badge/Built%20with-Claude%20by%20Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![W claude for debugging](https://img.shields.io/badge/Built%20with-Claude%20by%20Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![Status](https://img.shields.io/badge/Status-Live-2dc653?style=for-the-badge)]()
 
 A fully custom Discord marketplace bot built from scratch for the **Grab VR** community. Handles the full creator economy — listings, hiring, reputation, payments, disputes, and more.
@@ -134,7 +134,7 @@ Built and maintained by **resterphobic_gd** - Verified Grab VR Creator with 40+ 
 
 - **Discord Server:** [Join the Grab VR Creation Hub](https://discord.gg/NEWPxW6urB)
 - **Grab VR:** [grabvr.quest](https://grabvr.quest)
-- **Built with:** [Claude by Anthropic](https://anthropic.com)
+- **My debugging partner** [Claude by Anthropic](https://anthropic.com)
 
 ---
 
